@@ -8,7 +8,7 @@ The code is a basic website that uses HTML and CSS to structure and style the pa
 
 ## Screenshot of Application
 
-! [Image of Horiseon website header and hero](/horiseon-header-hero.png)
+! [Image of Horiseon website header and hero](/horiseon-header-hero.png)  
 ! [Image of Horiseon website content, benefits, and footer](/horiseon-content-aside-footer.png)
 
 ## Link to Deployed Application
